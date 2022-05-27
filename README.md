@@ -14,7 +14,6 @@ Karna ada sedikit bug mungkin kelalaian saya
 Yang terburu-buru oke lain waktu pasti ku update
 
 # INFO BUG :
-
 Jika anda menjalankan tools ini di folder root termux
 Dan file dump anda di /sdcard
 Simple nya seperti ini 
@@ -26,6 +25,9 @@ dan akan selalu {0} jumblah nya
 Untuk mengatasinya letakan FILE yang sudah anda DUMP
 sebelumnya di dalam folder dimana anda menyimpan
 Atau menginstall tools ini
+
+INFO :
+bug tidak berpengaruh pada hasil anda
 
 # LETAKAN FILE HASIL DUMP ANDA DI PENYIMPANAN FOLDER TOOLS
 # HAPPY FUN 🤘
