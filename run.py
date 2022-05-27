@@ -1,2 +1,2 @@
-import file
-file.menu()
+import simple
+simple.menu()
