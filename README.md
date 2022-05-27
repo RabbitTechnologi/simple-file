@@ -18,8 +18,8 @@ Yang terburu-buru oke lain waktu pasti ku update
 Jika anda menjalankan tools ini di folder root termux
 Dan file dump anda di /sdcard
 Simple nya seperti ini anda menyimpan ke 2 nya
-Antara file tools dan file id hasil dump berbeda folder
-Maka hasil akan masuk dan tampil di layar 
+Antara file tools dan file id hasil dump 
+berbeda folder,maka hasil akan masuk dan tampil di layar 
 tetapi total dari hasil tidak tampil 
 dan akan selalu {0} jumblah nya
 Untuk mengatasinya letakan FILE yang sudah anda DUMP
